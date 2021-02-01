@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+*Mi nombre es marislenny
+
+
+*Soy estudiante de secundaria
+
+
+*Me estoy formando en el ambito informatico
+
+
+*Inicie en git para proyectos futuros
 <!--
 **marislennyS/marislennyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
